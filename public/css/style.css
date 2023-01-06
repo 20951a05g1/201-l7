@@ -1,0 +1,8 @@
+body {
+    font-family: monospace;
+    background: #800000;
+  }
+
+  .todoItem:hover .trashIcone {
+    display: block;
+  }
